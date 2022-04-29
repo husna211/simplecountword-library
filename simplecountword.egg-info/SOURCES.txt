@@ -1,0 +1,7 @@
+LICENCE.TXT
+setup.py
+simplecountword/__init__.py
+simplecountword.egg-info/PKG-INFO
+simplecountword.egg-info/SOURCES.txt
+simplecountword.egg-info/dependency_links.txt
+simplecountword.egg-info/top_level.txt
